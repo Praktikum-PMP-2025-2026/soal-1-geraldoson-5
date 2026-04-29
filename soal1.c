@@ -4,7 +4,7 @@
  *   Nama (NIM)          : Geraldo Son Luther Silalahi (13224018)
  *   Nama File           : soal1.c
  *   Deskripsi           : Program membaca data artefak yang terdiri atas nama, kategori, 
- * tahun penemuan, dan nilai penting artefak ke dalam dynamic array bertipe struct. Kemudian, Seluruh data 
+ * tahun penemuan, dan nilai penting artefak ke dalam dynamic array bertipe struct. Kemudian, seluruh data 
  * diurutkan secara alfabet naik, tahun secara naik, nilai secara turun, dan nama secara alfabet naik. 
  * Setelah proses pengurutan selesai, program menampilkan seluruh artefak sesuai urutan yang diminta soal. 
  */
